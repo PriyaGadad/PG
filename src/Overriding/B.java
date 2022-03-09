@@ -12,10 +12,5 @@ public class B extends A
 	{
 		System.out.println("M2 of B class method" + d);
 	}
-	public static void main(String[] args) 
-	{
-		B b=new B();
-		b.M1(10);
-		b.M2("bolenath");
-	}
+	
 }

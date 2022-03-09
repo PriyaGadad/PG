@@ -10,10 +10,6 @@ public class A
 	{
 		System.out.println("hello" + a);
 	}
-	public static void main(String[] args) 
-	{
-		A c=new A();
-		c.M1(10);
-		c.M2("priya");
-	}
 }
+
+	
